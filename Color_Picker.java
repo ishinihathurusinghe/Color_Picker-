@@ -1,5 +1,5 @@
 
-import java.applet.*;
+import java.applet.* ;
 import java.awt.*;
 import java.awt.event.*;
 /*<applet code="vyon102" width=500 height=450>
